@@ -1,0 +1,319 @@
+LAD code,LAD name,Rural Urban Classification (Note 1),Total Community Facility Count,Community Meeting Place,Community Services,Multi-Purpose Community Site,Recreational Or Social Club,Youth Recreational Or Social Club,"Community Facilities per 100,000 people",Total Community Facility Area (km2),"Community Facility Area per 100,000 people (km2)"
+E06000001,Hartlepool,Urban with City and Town,59,20,0,0,31,0,61.87,0.09,0.09
+E06000002,Middlesbrough,Urban with City and Town,85,34,8,0,31,8,55.68,0.29,0.19
+E06000003,Redcar and Cleveland,Urban with Significant Rural,114,51,0,0,44,15,82.65,0.23,0.16
+E06000004,Stockton-on-Tees,Urban with City and Town,99,48,11,0,30,10,48.91,0.26,0.13
+E06000005,Darlington,Urban with City and Town,71,39,0,0,25,0,64.22,0.12,0.10
+E06000006,Halton,Urban with City and Town,76,30,5,0,31,10,58.65,0.19,0.15
+E06000007,Warrington,Urban with City and Town,125,56,8,0,37,23,58.85,0.37,0.18
+E06000008,Blackburn with Darwen,Urban with City and Town,72,29,8,0,30,0,45.71,0.15,0.10
+E06000009,Blackpool,Urban with City and Town,80,29,0,0,39,7,56.06,0.10,0.07
+E06000010,"Kingston upon Hull, City of",Urban with City and Town,143,58,21,0,48,14,52.58,0.38,0.14
+E06000011,East Riding of Yorkshire,Largely Rural,300,183,22,0,73,20,85.69,0.48,0.14
+E06000012,North East Lincolnshire,Urban with City and Town,113,49,12,0,42,10,71.37,0.39,0.25
+E06000013,North Lincolnshire,Urban with Significant Rural,139,70,8,0,45,14,81.72,0.33,0.19
+E06000014,York,Urban with City and Town,152,65,18,0,53,16,73.51,0.39,0.19
+E06000015,Derby,Urban with City and Town,138,69,14,0,44,11,51.79,0.19,0.07
+E06000016,Leicester,Urban with City and Town,159,75,18,0,54,12,41.87,0.24,0.06
+E06000017,Rutland,Mainly Rural,46,36,0,0,6,0,113.18,0.41,1.01
+E06000018,Nottingham,Urban with Minor Conurbation,143,80,8,0,38,14,43.43,0.27,0.08
+E06000019,"Herefordshire, County of",Largely Rural,251,175,19,0,38,19,132.18,0.49,0.26
+E06000020,Telford and Wrekin,Urban with City and Town,115,76,5,0,24,9,59.92,0.25,0.13
+E06000021,Stoke-on-Trent,Urban with City and Town,110,41,22,0,29,18,41.80,0.23,0.09
+E06000022,Bath and North East Somerset,Urban with Significant Rural,169,101,17,0,32,19,84.58,0.29,0.15
+E06000023,"Bristol, City of",Urban with City and Town,279,103,47,0,65,60,57.76,0.33,0.07
+E06000024,North Somerset,Urban with Significant Rural,151,81,11,0,35,23,68.28,0.27,0.12
+E06000025,South Gloucestershire,Urban with City and Town,198,106,16,0,34,41,66.12,0.67,0.22
+E06000026,Plymouth,Urban with City and Town,142,60,0,0,54,24,52.84,0.17,0.06
+E06000027,Torbay,Urban with City and Town,87,36,0,0,40,7,62.37,0.07,0.05
+E06000030,Swindon,Urban with City and Town,111,75,0,0,28,0,46.56,0.22,0.09
+E06000031,Peterborough,Urban with City and Town,97,71,7,0,8,11,44.19,0.12,0.05
+E06000032,Luton,Urban with City and Town,66,34,6,0,18,8,28.57,0.25,0.11
+E06000033,Southend-on-Sea,Urban with City and Town,86,50,12,0,20,0,47.18,0.14,0.08
+E06000034,Thurrock,Urban with Major Conurbation,105,65,6,0,29,0,58.92,0.21,0.12
+E06000035,Medway,Urban with City and Town,149,75,13,0,46,13,51.95,0.23,0.08
+E06000036,Bracknell Forest,Urban with City and Town,65,41,6,0,7,10,50.64,0.11,0.08
+E06000037,West Berkshire,Urban with Significant Rural,130,85,6,0,27,12,79.58,0.27,0.17
+E06000038,Reading,Urban with City and Town,72,45,6,0,10,11,40.40,0.08,0.05
+E06000039,Slough,Urban with City and Town,53,26,8,0,11,8,32.98,0.09,0.06
+E06000040,Windsor and Maidenhead,Urban with City and Town,99,57,0,0,27,11,63.77,0.13,0.08
+E06000041,Wokingham,Urban with City and Town,79,48,10,0,11,10,42.97,0.15,0.08
+E06000042,Milton Keynes,Urban with City and Town,140,87,11,0,33,8,46.94,0.37,0.12
+E06000043,Brighton and Hove,Urban with City and Town,116,62,14,0,24,13,41.48,0.21,0.07
+E06000044,Portsmouth,Urban with City and Town,99,43,16,0,36,0,47.08,0.14,0.07
+E06000045,Southampton,Urban with City and Town,117,63,10,0,32,11,45.68,0.12,0.05
+E06000046,Isle of Wight,Mainly Rural,141,68,6,0,46,20,100.07,0.18,0.13
+E06000047,County Durham,Largely Rural,493,237,31,0,185,40,92.64,0.74,0.14
+E06000049,Cheshire East,Urban with Significant Rural,230,105,20,0,61,44,55.76,0.93,0.22
+E06000050,Cheshire West and Chester,Urban with Significant Rural,253,139,15,0,59,40,69.30,0.67,0.18
+E06000051,Shropshire,Largely Rural,408,282,38,0,61,25,123.91,0.63,0.19
+E06000052,Cornwall,Mainly Rural,729,420,54,0,204,48,126.05,1.00,0.17
+E06000053,Isles of Scilly,Mainly Rural,9,5,0,0,0,0,403.77,0.03,1.27
+E06000054,Wiltshire,Largely Rural,513,325,27,0,116,41,99.04,0.66,0.13
+E06000055,Bedford,Urban with Significant Rural,127,90,10,0,23,0,66.88,0.26,0.14
+E06000056,Central Bedfordshire,Largely Rural,208,129,9,0,47,21,67.47,0.46,0.15
+E06000057,Northumberland,Largely Rural,356,204,12,0,102,35,108.85,0.54,0.17
+E06000058,"Bournemouth, Christchurch and Poole",Urban with City and Town,238,129,22,0,57,29,58.90,0.26,0.06
+E06000059,Dorset,Largely Rural,477,313,27,0,97,39,123.96,0.72,0.19
+E06000060,Buckinghamshire,Urban with Significant Rural,410,277,20,0,64,48,72.35,0.85,0.15
+E06000061,North Northamptonshire,Urban with Significant Rural,289,164,19,0,93,12,78.53,0.60,0.16
+E06000062,West Northamptonshire,Urban with Significant Rural,331,219,19,0,84,8,76.21,0.44,0.10
+E06000063,Cumberland,Largely Rural,330,183,21,0,102,22,119.19,0.54,0.20
+E06000064,Westmorland and Furness,Largely Rural,314,199,23,0,70,19,137.61,0.54,0.24
+E06000065,North Yorkshire,Largely Rural,753,509,46,0,146,50,119.98,1.32,0.21
+E06000066,Somerset,Largely Rural,619,411,47,0,122,39,106.51,0.94,0.16
+E07000008,Cambridge,Urban with City and Town,77,48,7,0,18,0,51.35,0.79,0.53
+E07000009,East Cambridgeshire,Mainly Rural,72,44,6,0,17,5,78.72,0.11,0.12
+E07000010,Fenland,Largely Rural,76,43,0,0,22,7,73.40,0.10,0.10
+E07000011,Huntingdonshire,Mainly Rural,148,102,8,0,27,11,79.54,0.27,0.15
+E07000012,South Cambridgeshire,Largely Rural,164,126,5,0,17,12,97.31,0.21,0.12
+E07000032,Amber Valley,Urban with Minor Conurbation,101,48,0,0,37,11,79.09,0.18,0.14
+E07000033,Bolsover,Urban with Significant Rural,64,29,5,0,24,6,77.27,0.12,0.14
+E07000034,Chesterfield,Urban with City and Town,62,24,12,0,19,7,59.11,0.10,0.10
+E07000035,Derbyshire Dales,Mainly Rural,98,60,9,0,19,9,137.01,0.08,0.12
+E07000036,Erewash,Urban with Minor Conurbation,68,29,0,0,26,10,59.73,0.09,0.08
+E07000037,High Peak,Largely Rural,82,26,5,0,39,12,89.55,0.14,0.15
+E07000038,North East Derbyshire,Urban with City and Town,86,46,8,0,19,13,81.88,0.17,0.16
+E07000039,South Derbyshire,Urban with Significant Rural,85,58,0,0,19,6,74.53,0.16,0.14
+E07000040,East Devon,Largely Rural,185,116,11,0,37,20,118.46,0.30,0.19
+E07000041,Exeter,Urban with City and Town,64,27,8,0,25,0,46.70,0.06,0.05
+E07000042,Mid Devon,Mainly Rural,117,80,8,0,20,8,139.04,0.19,0.22
+E07000043,North Devon,Largely Rural,133,93,6,0,25,7,132.28,0.14,0.13
+E07000044,South Hams,Mainly Rural,119,78,8,0,19,14,131.00,0.10,0.11
+E07000045,Teignbridge,Largely Rural,141,92,0,0,34,10,102.86,0.16,0.12
+E07000046,Torridge,Mainly Rural,118,78,13,0,19,7,171.44,0.18,0.26
+E07000047,West Devon,Mainly Rural,73,53,5,0,11,0,124.25,0.06,0.10
+E07000061,Eastbourne,Urban with City and Town,45,25,0,0,14,0,43.35,0.05,0.04
+E07000062,Hastings,Urban with City and Town,69,36,9,0,18,6,75.98,0.09,0.09
+E07000063,Lewes,Urban with Significant Rural,88,54,6,0,18,9,86.82,0.12,0.12
+E07000064,Rother,Largely Rural,108,66,0,0,30,11,113.85,0.14,0.15
+E07000065,Wealden,Mainly Rural,137,91,8,0,26,12,83.21,0.25,0.15
+E07000066,Basildon,Urban with City and Town,94,66,6,0,16,5,49.33,0.17,0.09
+E07000067,Braintree,Largely Rural,126,92,7,0,21,6,78.77,0.26,0.16
+E07000068,Brentwood,Urban with Significant Rural,48,30,6,0,9,0,61.42,0.21,0.27
+E07000069,Castle Point,Urban with City and Town,40,20,0,0,13,0,44.51,0.04,0.05
+E07000070,Chelmsford,Urban with City and Town,115,75,10,0,17,12,62.07,0.15,0.08
+E07000071,Colchester,Urban with Significant Rural,117,78,10,0,24,5,59.39,0.25,0.13
+E07000072,Epping Forest,Urban with Significant Rural,88,57,0,0,15,12,64.72,0.18,0.13
+E07000073,Harlow,Urban with City and Town,37,22,5,0,7,0,38.53,0.04,0.05
+E07000074,Maldon,Mainly Rural,61,39,0,0,13,5,89.28,0.10,0.15
+E07000075,Rochford,Urban with City and Town,50,30,5,0,8,7,56.70,0.14,0.16
+E07000076,Tendring,Largely Rural,113,69,8,0,30,6,73.76,0.19,0.13
+E07000077,Uttlesford,Mainly Rural,108,83,0,0,13,8,115.39,0.18,0.19
+E07000078,Cheltenham,Urban with City and Town,58,27,6,0,16,9,48.23,0.13,0.11
+E07000079,Cotswold,Mainly Rural,143,113,6,0,19,0,156.30,0.44,0.48
+E07000080,Forest of Dean,Mainly Rural,121,78,10,0,28,5,135.80,0.18,0.20
+E07000081,Gloucester,Urban with City and Town,84,39,8,0,27,8,62.23,0.17,0.13
+E07000082,Stroud,Urban with Significant Rural,125,82,8,0,24,11,100.37,0.14,0.12
+E07000083,Tewkesbury,Largely Rural,86,55,0,0,20,7,86.96,0.29,0.29
+E07000084,Basingstoke and Deane,Urban with Significant Rural,125,81,8,0,23,13,65.72,0.20,0.10
+E07000085,East Hampshire,Mainly Rural,100,75,5,0,14,6,77.86,0.18,0.14
+E07000086,Eastleigh,Urban with City and Town,91,44,8,0,26,12,64.56,0.17,0.12
+E07000087,Fareham,Urban with City and Town,77,36,0,0,24,13,67.45,0.10,0.09
+E07000088,Gosport,Urban with City and Town,52,18,7,0,19,8,63.12,0.07,0.09
+E07000089,Hart,Urban with Significant Rural,58,39,5,0,6,8,57.12,0.08,0.08
+E07000090,Havant,Urban with City and Town,55,26,8,0,12,8,43.76,0.08,0.06
+E07000091,New Forest,Urban with Significant Rural,173,91,12,0,44,25,98.63,0.29,0.17
+E07000092,Rushmoor,Urban with City and Town,39,21,0,0,10,6,37.90,0.04,0.04
+E07000093,Test Valley,Urban with Significant Rural,111,73,0,0,23,11,82.55,0.17,0.12
+E07000094,Winchester,Largely Rural,112,82,9,0,14,7,84.57,0.16,0.12
+E07000095,Broxbourne,Urban with Major Conurbation,49,24,5,0,13,7,48.98,0.06,0.06
+E07000096,Dacorum,Urban with Significant Rural,98,56,0,0,15,24,62.09,0.23,0.15
+E07000098,Hertsmere,Urban with Major Conurbation,56,30,5,0,10,11,51.38,0.09,0.08
+E07000099,North Hertfordshire,Urban with Significant Rural,106,73,5,0,9,17,78.17,0.15,0.11
+E07000102,Three Rivers,Urban with Major Conurbation,53,35,0,0,9,8,55.97,0.07,0.08
+E07000103,Watford,Urban with Major Conurbation,45,25,0,0,7,10,43.19,0.11,0.11
+E07000105,Ashford,Urban with Significant Rural,95,70,9,0,11,5,68.70,0.19,0.14
+E07000106,Canterbury,Urban with City and Town,112,73,0,0,27,9,70.03,0.12,0.08
+E07000107,Dartford,Urban with Major Conurbation,65,30,0,0,17,15,53.85,0.14,0.11
+E07000108,Dover,Urban with Significant Rural,97,60,0,0,17,17,81.79,0.20,0.17
+E07000109,Gravesham,Urban with Major Conurbation,66,41,0,0,16,5,61.26,0.10,0.09
+E07000110,Maidstone,Urban with Significant Rural,111,78,6,0,20,7,60.26,0.20,0.11
+E07000111,Sevenoaks,Largely Rural,101,69,5,0,15,12,83.29,0.27,0.22
+E07000112,Folkestone and Hythe,Urban with Significant Rural,97,52,0,0,24,18,87.39,0.11,0.10
+E07000113,Swale,Largely Rural,118,70,0,0,36,8,75.69,0.31,0.20
+E07000114,Thanet,Urban with City and Town,88,34,7,0,35,12,62.66,0.07,0.05
+E07000115,Tonbridge and Malling,Urban with Significant Rural,75,46,0,0,14,12,55.47,0.11,0.08
+E07000116,Tunbridge Wells,Urban with Significant Rural,71,47,0,0,17,5,60.67,0.09,0.08
+E07000117,Burnley,Urban with City and Town,63,22,7,0,30,0,65.33,0.10,0.10
+E07000118,Chorley,Urban with Significant Rural,71,37,0,0,19,13,59.49,0.12,0.10
+E07000119,Fylde,Urban with City and Town,59,27,0,0,17,12,70.37,0.14,0.17
+E07000120,Hyndburn,Urban with City and Town,56,16,7,0,29,0,66.46,0.05,0.06
+E07000121,Lancaster,Urban with Significant Rural,116,63,5,0,32,15,79.69,0.20,0.14
+E07000122,Pendle,Urban with City and Town,93,40,6,0,42,0,95.84,0.11,0.12
+E07000123,Preston,Urban with City and Town,73,27,6,0,36,0,46.67,0.16,0.10
+E07000124,Ribble Valley,Mainly Rural,63,35,7,0,21,0,97.72,0.11,0.17
+E07000125,Rossendale,Urban with City and Town,59,20,5,0,29,0,82.47,0.07,0.10
+E07000126,South Ribble,Urban with City and Town,63,25,0,0,25,13,55.48,0.15,0.13
+E07000127,West Lancashire,Urban with Significant Rural,85,43,0,0,27,11,70.42,0.17,0.14
+E07000128,Wyre,Largely Rural,89,40,0,0,31,17,76.07,0.10,0.09
+E07000129,Blaby,Urban with City and Town,55,35,0,0,11,7,52.24,0.08,0.07
+E07000130,Charnwood,Urban with City and Town,103,60,6,0,27,10,54.78,0.11,0.06
+E07000131,Harborough,Mainly Rural,111,87,5,0,15,0,108.21,0.26,0.25
+E07000132,Hinckley and Bosworth,Largely Rural,77,50,0,0,21,5,66.97,0.20,0.18
+E07000133,Melton,Mainly Rural,56,42,0,0,8,0,105.19,0.12,0.22
+E07000134,North West Leicestershire,Largely Rural,94,58,0,0,26,8,85.21,0.26,0.24
+E07000135,Oadby and Wigston,Urban with City and Town,25,11,0,0,9,0,41.93,0.04,0.07
+E07000136,Boston,Urban with Significant Rural,47,23,0,0,14,7,65.86,0.10,0.13
+E07000137,East Lindsey,Mainly Rural,169,125,8,0,23,13,116.25,0.21,0.14
+E07000138,Lincoln,Urban with City and Town,28,15,0,0,7,0,27.10,0.06,0.06
+E07000139,North Kesteven,Mainly Rural,89,70,0,0,10,8,73.43,0.11,0.09
+E07000140,South Holland,Largely Rural,79,52,0,0,17,6,80.68,0.12,0.12
+E07000141,South Kesteven,Largely Rural,126,89,0,0,20,14,86.44,0.23,0.16
+E07000142,West Lindsey,Mainly Rural,97,66,0,0,14,13,99.10,0.17,0.17
+E07000143,Breckland,Mainly Rural,134,99,7,0,20,8,92.36,0.28,0.19
+E07000144,Broadland,Urban with Significant Rural,113,80,5,0,14,14,83.35,0.38,0.28
+E07000145,Great Yarmouth,Urban with Significant Rural,67,47,0,0,11,7,66.96,0.13,0.13
+E07000146,King's Lynn and West Norfolk,Largely Rural,170,120,8,0,34,8,109.14,0.29,0.18
+E07000147,North Norfolk,Mainly Rural,180,137,7,0,19,17,174.37,0.25,0.24
+E07000148,Norwich,Urban with City and Town,84,39,12,0,21,12,57.70,0.12,0.09
+E07000149,South Norfolk,Mainly Rural,145,117,7,0,12,8,98.87,0.24,0.16
+E07000170,Ashfield,Urban with City and Town,76,31,0,0,31,11,59.21,0.11,0.09
+E07000171,Bassetlaw,Largely Rural,113,70,12,0,19,11,92.41,0.21,0.18
+E07000172,Broxtowe,Urban with Minor Conurbation,57,33,0,0,13,9,50.37,0.07,0.06
+E07000173,Gedling,Urban with Minor Conurbation,67,41,0,0,17,8,56.51,0.08,0.07
+E07000174,Mansfield,Urban with City and Town,76,34,7,0,30,5,67.80,0.12,0.11
+E07000175,Newark and Sherwood,Largely Rural,117,74,5,0,22,16,92.73,0.19,0.15
+E07000176,Rushcliffe,Largely Rural,92,58,0,0,14,16,74.28,0.19,0.15
+E07000177,Cherwell,Urban with Significant Rural,125,85,11,0,23,6,75.16,0.18,0.11
+E07000178,Oxford,Urban with City and Town,98,60,13,0,20,0,59.33,0.11,0.07
+E07000179,South Oxfordshire,Mainly Rural,140,96,8,0,18,17,91.25,0.17,0.11
+E07000180,Vale of White Horse,Largely Rural,96,70,0,0,14,7,65.77,0.15,0.10
+E07000181,West Oxfordshire,Mainly Rural,102,70,5,0,15,12,85.48,1.05,0.88
+E07000192,Cannock Chase,Urban with Significant Rural,62,26,0,0,27,5,60.29,0.11,0.10
+E07000193,East Staffordshire,Urban with Significant Rural,83,49,0,0,25,6,65.03,0.17,0.13
+E07000194,Lichfield,Urban with Significant Rural,84,46,6,0,25,7,76.24,0.14,0.13
+E07000195,Newcastle-under-Lyme,Urban with City and Town,94,49,20,0,19,6,73.40,0.14,0.11
+E07000196,South Staffordshire,Urban with Significant Rural,81,43,0,0,25,10,71.63,0.21,0.18
+E07000197,Stafford,Urban with Significant Rural,118,75,6,0,23,14,83.88,0.26,0.18
+E07000198,Staffordshire Moorlands,Largely Rural,90,55,12,0,9,14,93.96,0.12,0.13
+E07000199,Tamworth,Urban with City and Town,47,16,6,0,18,7,58.56,0.08,0.10
+E07000200,Babergh,Mainly Rural,106,82,5,0,14,0,110.56,0.21,0.22
+E07000202,Ipswich,Urban with City and Town,71,35,0,0,21,11,50.94,0.13,0.10
+E07000203,Mid Suffolk,Mainly Rural,124,105,0,0,8,7,114.78,0.25,0.23
+E07000207,Elmbridge,Urban with Major Conurbation,97,45,0,0,33,17,69.04,0.15,0.11
+E07000208,Epsom and Ewell,Urban with Major Conurbation,38,25,0,0,10,0,46.35,0.08,0.10
+E07000209,Guildford,Urban with City and Town,108,59,8,0,25,16,72.40,0.99,0.67
+E07000210,Mole Valley,Urban with Significant Rural,66,49,0,0,5,9,74.77,0.11,0.13
+E07000211,Reigate and Banstead,Urban with City and Town,81,48,0,0,20,9,51.93,0.11,0.07
+E07000212,Runnymede,Urban with Major Conurbation,60,25,0,0,25,9,66.34,0.15,0.16
+E07000213,Spelthorne,Urban with Major Conurbation,66,37,0,0,13,13,63.49,0.14,0.13
+E07000214,Surrey Heath,Urban with City and Town,59,23,5,0,15,16,64.01,0.11,0.12
+E07000215,Tandridge,Urban with Significant Rural,68,36,0,0,12,16,76.05,0.08,0.09
+E07000216,Waverley,Largely Rural,94,47,0,0,27,17,71.13,0.13,0.10
+E07000217,Woking,Urban with Major Conurbation,44,25,0,0,9,9,42.05,0.09,0.09
+E07000218,North Warwickshire,Mainly Rural,83,44,7,0,24,7,125.44,0.18,0.28
+E07000219,Nuneaton and Bedworth,Urban with City and Town,91,35,11,0,36,8,66.04,0.13,0.09
+E07000220,Rugby,Urban with City and Town,92,58,0,0,23,6,77.45,0.20,0.17
+E07000221,Stratford-on-Avon,Mainly Rural,153,105,8,0,28,11,107.80,0.33,0.23
+E07000222,Warwick,Urban with City and Town,94,52,0,0,28,10,61.38,0.20,0.13
+E07000223,Adur,Urban with City and Town,37,23,0,0,7,6,57.20,0.05,0.07
+E07000224,Arun,Urban with City and Town,100,61,0,0,31,6,59.52,0.20,0.12
+E07000225,Chichester,Largely Rural,128,80,6,0,26,15,100.00,0.28,0.22
+E07000226,Crawley,Urban with City and Town,48,21,0,0,13,13,39.82,0.07,0.06
+E07000227,Horsham,Largely Rural,105,65,6,0,16,18,70.25,0.21,0.14
+E07000228,Mid Sussex,Urban with City and Town,88,56,6,0,17,9,55.73,0.12,0.08
+E07000229,Worthing,Urban with City and Town,54,24,0,0,11,16,48.11,0.08,0.07
+E07000234,Bromsgrove,Urban with City and Town,73,39,0,0,22,9,72.51,0.14,0.14
+E07000235,Malvern Hills,Largely Rural,102,71,5,0,16,10,124.66,0.18,0.22
+E07000236,Redditch,Urban with City and Town,38,17,0,0,11,6,43.65,0.07,0.08
+E07000237,Worcester,Urban with City and Town,57,28,0,0,14,10,54.21,0.08,0.08
+E07000238,Wychavon,Mainly Rural,140,83,8,0,39,9,102.77,0.29,0.21
+E07000239,Wyre Forest,Urban with Significant Rural,80,44,0,0,25,7,77.48,0.13,0.13
+E07000240,St Albans,Urban with City and Town,79,36,0,0,22,20,53.11,0.29,0.19
+E07000241,Welwyn Hatfield,Urban with City and Town,66,35,7,0,15,8,54.21,0.37,0.31
+E07000242,East Hertfordshire,Urban with Significant Rural,116,82,5,0,16,13,75.62,0.32,0.21
+E07000243,Stevenage,Urban with City and Town,35,20,5,0,6,0,38.83,0.04,0.04
+E07000244,East Suffolk,Largely Rural,274,190,15,0,45,22,110.89,0.50,0.20
+E07000245,West Suffolk,Largely Rural,161,116,8,0,29,6,86.53,0.27,0.14
+E08000001,Bolton,Urban with Major Conurbation,129,49,6,0,55,17,42.66,0.24,0.08
+E08000002,Bury,Urban with Major Conurbation,71,24,0,0,39,6,36.32,0.11,0.06
+E08000003,Manchester,Urban with Major Conurbation,166,66,19,0,55,24,28.62,0.33,0.06
+E08000004,Oldham,Urban with Major Conurbation,120,43,16,0,49,12,48.75,0.23,0.09
+E08000005,Rochdale,Urban with Major Conurbation,101,30,6,0,49,13,43.96,0.17,0.07
+E08000006,Salford,Urban with Major Conurbation,115,42,9,0,49,13,40.48,0.34,0.12
+E08000007,Stockport,Urban with Major Conurbation,145,50,9,0,49,37,48.41,0.37,0.12
+E08000008,Tameside,Urban with Major Conurbation,132,41,7,0,65,18,56.25,0.23,0.10
+E08000009,Trafford,Urban with Major Conurbation,113,38,8,0,37,30,47.58,0.26,0.11
+E08000010,Wigan,Urban with Major Conurbation,160,45,9,0,83,21,47.17,0.38,0.11
+E08000011,Knowsley,Urban with Major Conurbation,80,36,8,0,26,8,50.24,0.23,0.15
+E08000012,Liverpool,Urban with Major Conurbation,253,94,32,0,101,25,50.22,0.53,0.10
+E08000013,St. Helens,Urban with Major Conurbation,115,46,9,0,51,9,61.83,0.33,0.18
+E08000014,Sefton,Urban with Major Conurbation,168,74,17,0,60,15,59.42,0.37,0.13
+E08000015,Wirral,Urban with Major Conurbation,215,76,29,0,65,45,66.18,0.49,0.15
+E08000016,Barnsley,Urban with Minor Conurbation,165,50,18,0,81,15,66.41,0.38,0.15
+E08000017,Doncaster,Urban with Minor Conurbation,240,98,26,0,86,29,76.39,0.47,0.15
+E08000018,Rotherham,Urban with Minor Conurbation,149,66,19,0,47,16,54.94,0.28,0.10
+E08000019,Sheffield,Urban with Minor Conurbation,261,134,29,0,64,30,45.53,0.74,0.13
+E08000021,Newcastle upon Tyne,Urban with Major Conurbation,148,69,8,0,55,12,47.44,0.28,0.09
+E08000022,North Tyneside,Urban with Major Conurbation,118,49,6,0,43,20,55.72,0.25,0.12
+E08000023,South Tyneside,Urban with Major Conurbation,86,38,5,0,29,10,57.61,0.32,0.21
+E08000024,Sunderland,Urban with Major Conurbation,158,66,13,0,62,17,56.22,0.27,0.10
+E08000025,Birmingham,Urban with Major Conurbation,467,194,48,6,170,49,40.05,0.93,0.08
+E08000026,Coventry,Urban with City and Town,176,77,14,0,68,15,48.79,0.40,0.11
+E08000027,Dudley,Urban with Major Conurbation,193,80,29,0,58,25,59.08,0.37,0.11
+E08000028,Sandwell,Urban with Major Conurbation,174,72,23,0,69,10,50.06,0.30,0.09
+E08000029,Solihull,Urban with Major Conurbation,105,37,12,0,34,22,47.99,0.38,0.17
+E08000030,Walsall,Urban with Major Conurbation,150,48,20,0,68,13,51.95,0.31,0.11
+E08000031,Wolverhampton,Urban with Major Conurbation,159,57,35,0,54,13,58.36,0.28,0.10
+E08000032,Bradford,Urban with Major Conurbation,319,99,32,0,155,30,56.94,0.48,0.08
+E08000033,Calderdale,Urban with Major Conurbation,147,51,18,0,68,10,70.42,0.33,0.16
+E08000034,Kirklees,Urban with Major Conurbation,308,80,30,0,175,22,69.68,0.54,0.12
+E08000035,Leeds,Urban with Major Conurbation,441,187,56,5,157,36,53.17,0.76,0.09
+E08000036,Wakefield,Urban with City and Town,207,68,11,0,108,16,57.22,0.49,0.14
+E08000037,Gateshead,Urban with Major Conurbation,138,67,7,0,47,15,69.30,0.27,0.13
+E09000001,City of London,Urban with Major Conurbation,15,10,0,0,0,0,111.42,0.02,0.14
+E09000002,Barking and Dagenham,Urban with Major Conurbation,60,32,6,0,15,0,26.99,0.19,0.09
+E09000003,Barnet,Urban with Major Conurbation,128,81,9,0,26,11,32.40,0.30,0.08
+E09000004,Bexley,Urban with Major Conurbation,121,68,5,0,35,11,48.24,0.20,0.08
+E09000005,Brent,Urban with Major Conurbation,115,73,6,0,29,7,33.38,0.16,0.05
+E09000006,Bromley,Urban with Major Conurbation,128,86,0,0,26,12,38.65,0.40,0.12
+E09000007,Camden,Urban with Major Conurbation,77,48,12,0,13,0,34.86,0.08,0.03
+E09000008,Croydon,Urban with Major Conurbation,153,101,7,0,27,18,38.47,0.27,0.07
+E09000009,Ealing,Urban with Major Conurbation,128,87,0,0,29,9,34.10,0.34,0.09
+E09000010,Enfield,Urban with Major Conurbation,99,59,0,0,27,7,30.24,0.25,0.08
+E09000011,Greenwich,Urban with Major Conurbation,115,74,5,0,25,10,39.10,0.17,0.06
+E09000012,Hackney,Urban with Major Conurbation,96,63,0,0,19,10,36.46,0.07,0.03
+E09000013,Hammersmith and Fulham,Urban with Major Conurbation,62,38,0,0,17,0,33.30,0.04,0.02
+E09000014,Haringey,Urban with Major Conurbation,83,57,6,0,15,0,31.57,0.11,0.04
+E09000015,Harrow,Urban with Major Conurbation,74,50,7,0,11,0,28.09,0.09,0.03
+E09000016,Havering,Urban with Major Conurbation,105,71,0,0,20,11,39.16,0.24,0.09
+E09000017,Hillingdon,Urban with Major Conurbation,120,77,0,0,29,10,37.62,0.45,0.14
+E09000018,Hounslow,Urban with Major Conurbation,99,59,0,0,28,9,33.48,0.28,0.09
+E09000019,Islington,Urban with Major Conurbation,79,57,6,0,9,7,35.81,0.07,0.03
+E09000020,Kensington and Chelsea,Urban with Major Conurbation,45,31,0,0,11,0,30.52,0.02,0.01
+E09000021,Kingston upon Thames,Urban with Major Conurbation,62,37,0,0,16,8,36.37,0.09,0.05
+E09000022,Lambeth,Urban with Major Conurbation,93,62,5,0,19,6,29.46,0.08,0.02
+E09000023,Lewisham,Urban with Major Conurbation,106,71,8,0,21,6,35.49,0.11,0.04
+E09000024,Merton,Urban with Major Conurbation,88,63,0,0,12,10,40.89,0.08,0.04
+E09000025,Newham,Urban with Major Conurbation,76,43,7,0,20,5,20.96,0.08,0.02
+E09000026,Redbridge,Urban with Major Conurbation,104,62,0,0,23,15,33.19,0.15,0.05
+E09000027,Richmond upon Thames,Urban with Major Conurbation,93,53,0,0,26,11,47.57,0.14,0.07
+E09000028,Southwark,Urban with Major Conurbation,126,83,8,0,24,9,39.93,0.30,0.10
+E09000029,Sutton,Urban with Major Conurbation,77,51,0,0,17,5,36.47,0.22,0.10
+E09000030,Tower Hamlets,Urban with Major Conurbation,84,53,9,0,15,7,25.56,0.08,0.02
+E09000031,Waltham Forest,Urban with Major Conurbation,80,45,6,0,18,10,28.99,0.08,0.03
+E09000032,Wandsworth,Urban with Major Conurbation,94,51,0,0,33,5,28.36,0.12,0.03
+E09000033,Westminster,Urban with Major Conurbation,98,36,5,0,54,0,46.33,0.08,0.04
+W06000001,Isle of Anglesey,Wales,114,77,7,0,21,9,164.52,0.12,0.17
+W06000002,Gwynedd,Wales,209,129,23,0,49,8,175.38,0.23,0.20
+W06000003,Conwy,Wales,126,76,7,0,31,12,110.13,0.15,0.13
+W06000004,Denbighshire,Wales,98,56,11,0,22,9,100.87,0.18,0.18
+W06000005,Flintshire,Wales,145,84,13,0,34,14,93.06,0.28,0.18
+W06000006,Wrexham,Wales,121,68,10,0,23,18,88.87,0.21,0.16
+W06000008,Ceredigion,Wales,137,105,0,0,23,5,187.54,0.20,0.28
+W06000009,Pembrokeshire,Wales,195,125,8,0,50,9,155.99,0.34,0.28
+W06000010,Carmarthenshire,Wales,287,161,20,7,88,11,150.99,0.41,0.22
+W06000011,Swansea,Wales,220,111,21,0,72,16,89.16,0.27,0.11
+W06000012,Neath Port Talbot,Wales,198,103,6,0,79,9,138.56,0.29,0.20
+W06000013,Bridgend,Wales,146,65,9,0,61,11,99.49,0.16,0.11
+W06000014,Vale of Glamorgan,Wales,123,73,9,0,26,15,91.29,0.21,0.16
+W06000015,Cardiff,Wales,165,66,25,0,44,26,43.02,0.24,0.06
+W06000016,Rhondda Cynon Taf,Wales,312,133,14,0,144,17,129.37,0.32,0.13
+W06000018,Caerphilly,Wales,230,101,15,0,95,19,130.36,0.25,0.14
+W06000019,Blaenau Gwent,Wales,128,45,12,0,60,11,190.04,0.13,0.20
+W06000020,Torfaen,Wales,112,53,10,0,40,9,119.89,0.16,0.17
+W06000021,Monmouthshire,Wales,133,87,8,0,27,11,140.63,0.18,0.19
+W06000022,Newport,Wales,128,64,9,0,46,8,78.23,0.19,0.11
+W06000023,Powys,Wales,251,178,11,0,40,22,186.70,0.28,0.20
+W06000024,Merthyr Tydfil,Wales,72,27,0,0,37,0,122.88,0.11,0.18
