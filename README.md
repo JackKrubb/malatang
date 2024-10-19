@@ -4,6 +4,7 @@ Team name: **Malatang**
 
 Team members: 
 - Thanesphol Leerungruang
+- Nonthapat Arparpardh
 - Cheng-Ching Lei
 - Seungyeon Yang
 - Ka Yu Wong
